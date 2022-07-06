@@ -1,0 +1,35 @@
+.header {
+    height: 10vh;
+    
+}
+
+
+.productImg {
+    max-height: 1000px;
+}
+
+.productsContainer {
+ height: 100vh;
+ overflow-y: scroll;
+    
+}
+
+.cart {
+    height: 100vh;
+    overflow-y: scroll;
+    background-color: #C6AC8F;
+}
+
+footer {
+   
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+}
